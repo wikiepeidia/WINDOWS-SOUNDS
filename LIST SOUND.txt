@@ -1,0 +1,229 @@
+WIN 11 
+Windows Startup Sound.m4a
+Windows Feed Discovered.wav
+Windows Information Bar.wav
+Windows Navigation Start.wav
+Windows Pop-up Blocked.wav
+Speech Disambiguation.wav
+Speech Misrecognition.wav
+Speech Off.wav
+Speech On.wav
+Speech Sleep.wav
+Focus0_48000Hz.raw
+Focus1_48000Hz.raw
+Focus2_48000Hz.raw
+Focus3_48000Hz.raw
+Focus4_48000Hz.raw
+GoBack_48000Hz.raw
+Hide_48000Hz.raw
+Invoke_48000Hz.raw
+MoveNext_48000Hz.raw
+MovePrevious_48000Hz.raw
+Show_48000Hz.raw
+Windows Background.wav
+Windows Foreground.wav
+Windows Hardware Fail.wav
+Windows Hardware Fail.wav
+Windows Hardware Insert.wav
+Windows Hardware Insert.wav
+Windows Hardware Remove.wav
+Windows Hardware Remove.wav
+Windows Logon.wav
+Windows Notify Calendar.wav
+Windows Notify Email.wav
+Windows Notify Messaging.wav
+Windows Notify System Generic.wav
+Windows Unlock.wav
+Windows User Account Control.wav
+Windows User Account Control.wav
+Alarm01.wav
+Alarm02.wav
+Alarm03.wav
+Alarm04.wav
+Alarm05.wav
+Alarm06.wav
+Alarm07.wav
+Alarm08.wav
+Alarm09.wav
+Alarm10.wav
+chimes.wav
+chord.wav
+ding.wav
+flourish.mid
+notify.wav
+onestop.mid
+recycle.wav
+Ring01.wav
+Ring02.wav
+Ring03.wav
+Ring04.wav
+Ring05.wav
+Ring06.wav
+Ring07.wav
+Ring08.wav
+Ring09.wav
+Ring10.wav
+ringout.wav
+tada.wav
+town.mid
+Windows Background.wav
+Windows Balloon.wav
+Windows Battery Critical.wav
+Windows Battery Low.wav
+Windows Critical Stop.wav
+Windows Default.wav
+Windows Ding.wav
+Windows Error.wav
+Windows Exclamation.wav
+Windows Foreground.wav
+Windows Logoff Sound.wav
+Windows Menu Command.wav
+Windows Message Nudge.wav
+Windows Minimize.wav
+Windows Notify Calendar.wav
+Windows Notify Email.wav
+Windows Notify Messaging.wav
+Windows Notify System Generic.wav
+Windows Notify.wav
+Windows Print complete.wav
+Windows Proximity Connection.wav
+Windows Proximity Notification.wav
+Windows Recycle.wav
+Windows Restore.wav
+Windows Ringin.wav
+Windows Ringout.wav
+Windows Shutdown.wav
+Windows Startup.wav
+
+WIN10 8 7 vista:
+Windows Feed Discovered.wav
+Windows Information Bar.wav
+Windows Navigation Start.wav
+Windows Pop-up Blocked.wav
+Speech Disambiguation.wav
+Speech Misrecognition.wav
+Speech Off.wav
+Speech On.wav
+Windows Background.wav
+Windows Foreground.wav
+Windows Hardware Fail.wav
+Windows Hardware Fail.wav
+Windows Hardware Insert.wav
+Windows Hardware Insert.wav
+Windows Hardware Remove.wav
+Windows Hardware Remove.wav
+Windows Logon.wav
+Windows Notify Calendar.wav
+Windows Notify Email.wav
+Windows Notify Messaging.wav
+Windows Notify System Generic.wav
+Windows Unlock.wav
+Windows User Account Control.wav
+Windows User Account Control.wav
+Alarm01.wav
+Alarm02.wav
+Alarm03.wav
+Alarm04.wav
+Alarm05.wav
+Alarm06.wav
+Alarm07.wav
+Alarm08.wav
+Alarm09.wav
+Alarm10.wav
+chimes.wav
+chord.wav
+ding.wav
+flourish.mid
+notify.wav
+onestop.mid
+recycle.wav
+Ring01.wav
+Ring02.wav
+Ring03.wav
+Ring04.wav
+Ring05.wav
+Ring06.wav
+Ring07.wav
+Ring08.wav
+Ring09.wav
+Ring10.wav
+ringout.wav
+tada.wav
+town.mid
+Windows Background.wav
+Windows Balloon.wav
+Windows Battery Critical.wav
+Windows Battery Low.wav
+Windows Critical Stop.wav
+Windows Default.wav
+Windows Ding.wav
+Windows Error.wav
+Windows Exclamation.wav
+Windows Foreground.wav
+Windows Logoff Sound.wav
+Windows Menu Command.wav
+Windows Message Nudge.wav
+Windows Minimize.wav
+Windows Notify Calendar.wav
+Windows Notify Email.wav
+Windows Notify Messaging.wav
+Windows Notify System Generic.wav
+Windows Notify.wav
+Windows Print complete.wav
+Windows Proximity Connection.wav
+Windows Proximity Notification.wav
+Windows Recycle.wav
+Windows Restore.wav
+Windows Ringin.wav
+Windows Ringout.wav
+Windows Shutdown.wav
+Windows Startup.wav
+
+WINXP:
+Windows Feed Discovered.wav
+Windows Information Bar.wav
+Windows Navigation Start.wav
+Windows Pop-up Blocked.wav
+Windows XP Balloon.wav
+Windows XP Battery Critical.wav
+Windows XP Battery Low.wav
+Windows XP Critical Stop.wav
+Windows XP Default.wav
+Windows XP Ding.wav
+Windows XP Error.wav
+Windows XP Exclamation.wav
+Windows XP Hardware Fail.wav
+Windows XP Hardware Insert.wav
+Windows XP Hardware Remove.wav
+Windows XP Information Bar.wav
+Windows XP Logoff Sound.wav
+Windows XP Logon Sound.wav
+Windows XP Menu Command.wav
+Windows XP Minimize.wav
+Windows XP Notify.wav
+Windows XP Pop-up Blocked.wav
+Windows XP Print complete.wav
+Windows XP Recycle.wav
+Windows XP Restore.wav
+Windows XP Ringin.wav
+Windows XP Ringout.wav
+Windows XP Shutdown.wav
+Windows XP Start.wav
+Windows XP Startup.wav
+
+WIN2K and possibly NT 98 95 ME,etc:
+chimes.wav
+chord.wav
+ding.wav
+ir_begin.wav
+ir_end.wav
+ir_inter.wav
+notify.wav
+recycle.wav
+ringin.wav
+ringout.wav
+start.wav
+tada.wav
+The Microsoft Sound.wav
+Windows Logoff Sound.wav
+Windows Logon Sound.wav
